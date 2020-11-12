@@ -1,0 +1,36 @@
+Flight Destination,Num Passengers,Passenger Start Time,Flight Departure Time,Airline_Type,GATE
+"Boston, MA",71,1/1/2019 3:20,1/1/2019 5:20,Business,1
+"Chicago, IL",62,1/1/2019 3:30,1/1/2019 5:30,Business,2
+"Charlotte, NC",81,1/1/2019 3:38,1/1/2019 5:38,Business,3
+"Detroit, MI",67,1/1/2019 3:52,1/1/2019 5:52,Business,4
+"Atlanta, GA",122,1/1/2019 4:00,1/1/2019 6:00,Business,5
+"Washington, DC",26,1/1/2019 4:00,1/1/2019 6:00,Business,6
+"New York, NY",53,1/1/2019 4:00,1/1/2019 6:00,Business,7
+"Newark, NJ",78,1/1/2019 4:15,1/1/2019 6:15,Budget,8
+"Fort Lauderdale, FL",75,1/1/2019 4:20,1/1/2019 6:20,Business,9
+"Orlando, FL",78,1/1/2019 5:20,1/1/2019 7:20,Budget,10
+"Chicago, IL",86,1/1/2019 6:07,1/1/2019 8:07,Business,1
+"New York, NY",52,1/1/2019 6:32,1/1/2019 8:32,Business,2
+"Washington, DC",99,1/1/2019 8:36,1/1/2019 10:36,Business,3
+"Chicago, IL",87,1/1/2019 9:12,1/1/2019 11:12,Business,4
+"New York, NY",16,1/1/2019 9:20,1/1/2019 11:20,Business,5
+"Washington, DC",15,1/1/2019 9:41,1/1/2019 11:41,Budget,6
+"Charlotte, NC",78,1/1/2019 9:42,1/1/2019 11:42,Business,7
+"Atlanta, GA",64,1/1/2019 9:59,1/1/2019 11:59,Business,8
+"New York, NY",46,1/1/2019 10:11,1/1/2019 12:11,Business,9
+"Newark, NJ",34,1/1/2019 10:30,1/1/2019 12:30,Business,10
+"Chicago, IL",42,1/1/2019 10:35,1/1/2019 12:35,Budget,1
+"Detroit, MI",54,1/1/2019 11:00,1/1/2019 13:00,Business,2
+"Charlotte, NC",37,1/1/2019 12:40,1/1/2019 14:40,Budget,3
+"Washington, DC",50,1/1/2019 12:45,1/1/2019 14:45,Business,4
+"Chicago, IL",47,1/1/2019 12:57,1/1/2019 14:57,Business,5
+"Orlando, FL",37,1/1/2019 14:12,1/1/2019 16:12,Business,6
+"Chicago, IL",73,1/1/2019 15:28,1/1/2019 17:28,Business,7
+"Fort Myers, FL",96,1/1/2019 15:43,1/1/2019 17:43,Business,8
+"Chicago, IL",83,1/1/2019 16:04,1/1/2019 18:04,Business,9
+"New York, NY",56,1/1/2019 16:35,1/1/2019 18:35,Budget,10
+"New York, NY",44,1/1/2019 16:59,1/1/2019 18:59,Business,1
+"Charlotte, NC",41,1/1/2019 17:26,1/1/2019 19:26,Budget,2
+"Washington, DC",136,1/1/2019 17:29,1/1/2019 19:29,Business,3
+"Washington, DC",53,1/1/2019 17:45,1/1/2019 19:45,Business,4
+"Tampa, FL",35,1/1/2019 17:49,1/1/2019 19:49,Budget,5
